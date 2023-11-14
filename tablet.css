@@ -1,0 +1,89 @@
+/*Navbar*/
+
+.navbar ul{
+    flex-wrap: wrap;
+    justify-content: left;
+    
+
+}
+/*Headings*/
+.heading{
+
+    font-size: 2rem;
+
+}
+
+/*About*/
+#pic{
+    flex-direction: column;
+    align-items: center;
+
+}
+#pic img{
+    width: 300px;
+    height: 400px;
+
+}
+
+#intro h2{
+
+    text-align: center;
+    padding: 10px;
+}
+
+/*Contact*/
+.input{
+
+    width: 60%;
+
+}
+#msg{
+
+    width: 55%;
+
+}
+
+#send{
+
+    width: 20%;
+}
+
+#intro h1{
+
+    font-size: 2rem;
+    color:  #FF4F33 ;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#intro p {
+    font-size: 1.5rem;
+    margin: 20px,10px;
+
+
+    
+
+}
+#intro h2{
+    
+    font-size:2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+    color:#91D756 ; 
+
+}
+#intro h3{
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+
+.navbar ul li{
+    padding: 0px 0px !important;
+    margin: 2px 0 !important;
+    font-size: 1rem;
+
+}
+
